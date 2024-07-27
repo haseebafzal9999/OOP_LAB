@@ -1,0 +1,7 @@
+E:\Semester2\OOP\Week6-C#\Challenge2_Week6\bin\Debug\Challenge2_Week6.exe.config
+E:\Semester2\OOP\Week6-C#\Challenge2_Week6\bin\Debug\Challenge2_Week6.exe
+E:\Semester2\OOP\Week6-C#\Challenge2_Week6\bin\Debug\Challenge2_Week6.pdb
+E:\Semester2\OOP\Week6-C#\Challenge2_Week6\obj\Debug\Challenge2_Week6.csproj.AssemblyReference.cache
+E:\Semester2\OOP\Week6-C#\Challenge2_Week6\obj\Debug\Challenge2_Week6.csproj.CoreCompileInputs.cache
+E:\Semester2\OOP\Week6-C#\Challenge2_Week6\obj\Debug\Challenge2_Week6.exe
+E:\Semester2\OOP\Week6-C#\Challenge2_Week6\obj\Debug\Challenge2_Week6.pdb

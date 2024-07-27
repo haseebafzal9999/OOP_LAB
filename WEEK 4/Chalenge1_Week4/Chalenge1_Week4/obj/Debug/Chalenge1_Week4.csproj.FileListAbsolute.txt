@@ -1,0 +1,7 @@
+E:\Semester2\OOP\Week4-C#\Chalenge1_Week4\Chalenge1_Week4\bin\Debug\Chalenge1_Week4.exe.config
+E:\Semester2\OOP\Week4-C#\Chalenge1_Week4\Chalenge1_Week4\bin\Debug\Chalenge1_Week4.exe
+E:\Semester2\OOP\Week4-C#\Chalenge1_Week4\Chalenge1_Week4\bin\Debug\Chalenge1_Week4.pdb
+E:\Semester2\OOP\Week4-C#\Chalenge1_Week4\Chalenge1_Week4\obj\Debug\Chalenge1_Week4.csproj.AssemblyReference.cache
+E:\Semester2\OOP\Week4-C#\Chalenge1_Week4\Chalenge1_Week4\obj\Debug\Chalenge1_Week4.csproj.CoreCompileInputs.cache
+E:\Semester2\OOP\Week4-C#\Chalenge1_Week4\Chalenge1_Week4\obj\Debug\Chalenge1_Week4.exe
+E:\Semester2\OOP\Week4-C#\Chalenge1_Week4\Chalenge1_Week4\obj\Debug\Chalenge1_Week4.pdb

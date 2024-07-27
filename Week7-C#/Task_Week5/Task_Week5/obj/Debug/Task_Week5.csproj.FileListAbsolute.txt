@@ -1,0 +1,14 @@
+E:\Semester2\OOP\Week5-C#\Task_Week5\Task_Week5\bin\Debug\Task_Week5.exe.config
+E:\Semester2\OOP\Week5-C#\Task_Week5\Task_Week5\bin\Debug\Task_Week5.exe
+E:\Semester2\OOP\Week5-C#\Task_Week5\Task_Week5\bin\Debug\Task_Week5.pdb
+E:\Semester2\OOP\Week5-C#\Task_Week5\Task_Week5\obj\Debug\Task_Week5.csproj.AssemblyReference.cache
+E:\Semester2\OOP\Week5-C#\Task_Week5\Task_Week5\obj\Debug\Task_Week5.csproj.CoreCompileInputs.cache
+E:\Semester2\OOP\Week5-C#\Task_Week5\Task_Week5\obj\Debug\Task_Week5.exe
+E:\Semester2\OOP\Week5-C#\Task_Week5\Task_Week5\obj\Debug\Task_Week5.pdb
+E:\Semester2\OOP\Week7-C#\Task_Week5\Task_Week5\bin\Debug\Task_Week5.exe.config
+E:\Semester2\OOP\Week7-C#\Task_Week5\Task_Week5\bin\Debug\Task_Week5.exe
+E:\Semester2\OOP\Week7-C#\Task_Week5\Task_Week5\bin\Debug\Task_Week5.pdb
+E:\Semester2\OOP\Week7-C#\Task_Week5\Task_Week5\obj\Debug\Task_Week5.csproj.AssemblyReference.cache
+E:\Semester2\OOP\Week7-C#\Task_Week5\Task_Week5\obj\Debug\Task_Week5.csproj.CoreCompileInputs.cache
+E:\Semester2\OOP\Week7-C#\Task_Week5\Task_Week5\obj\Debug\Task_Week5.exe
+E:\Semester2\OOP\Week7-C#\Task_Week5\Task_Week5\obj\Debug\Task_Week5.pdb
